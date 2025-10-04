@@ -5,9 +5,6 @@ Before cloning the repository, choose a directory where you wants to store your 
 cd ~/vcd/photos
 ```
 
-> [!Note]
-> I prefer storing my work in a `photos` folder under `~/vcd`, but you can also clone it into 'home' directory.
-
 Clone the required sources from the [VSDBabySoC Repository](https://github.com/manili/VSDBabySoC):
 
 ```bash
